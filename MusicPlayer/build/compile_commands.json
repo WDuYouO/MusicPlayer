@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/MyCode/MusicPlayer/build",
+  "command": "D:\\IDE\\MinGW\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MusicPlayer.dir\\main.cpp.obj -c D:\\MyCode\\MusicPlayer\\main.cpp",
+  "file": "D:/MyCode/MusicPlayer/main.cpp",
+  "output": "CMakeFiles/MusicPlayer.dir/main.cpp.obj"
+}
+]
